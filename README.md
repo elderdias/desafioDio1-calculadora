@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Calculadora
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é o código-fonte da calculadora desenvolvida como o primeiro desafio do bootcamp de React da escola DIO. A calculadora é uma aplicação simples que permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 
-## Available Scripts
+## Funcionalidades
 
-In the project directory, you can run:
+- Adição de números
+- Subtração de números
+- Multiplicação de números
+- Divisão de números
+- Limpar a calculadora
 
-### `npm start`
+## Como executar
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Certifique-se de ter o ambiente configurado para o desenvolvimento React.
+2. Faça o clone deste repositório.
+3. Navegue até o diretório do projeto.
+4. Execute o comando `npm install` ou `yarn install` para instalar as dependências.
+5. Execute o comando `npm start` ou `yarn start` para iniciar a aplicação.
+6. Acesse a calculadora no seu navegador em `http://localhost:3000`.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Conteúdo do bootcamp
 
-### `npm test`
+Este projeto foi desenvolvido como parte do conteúdo apresentado no bootcamp de React da escola DIO. O objetivo do bootcamp é fornecer conhecimentos práticos e teóricos sobre o desenvolvimento de aplicações React. Durante o bootcamp, são abordados conceitos fundamentais do React, como componentes, estado, propriedades, manipulação de eventos, entre outros.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Como praticar
 
-### `npm run build`
+Você pode aproveitar este projeto para praticar os conceitos e técnicas ensinados no bootcamp. Algumas sugestões de melhorias e exercícios adicionais incluem:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Adicionar uma funcionalidade para cálculo de porcentagem.
+- Implementar uma funcionalidade de memória, permitindo salvar e recuperar valores anteriores.
+- Melhorar o design da calculadora, adicionando estilos mais elaborados e animações.
+- Implementar validações para evitar operações inválidas, como divisão por zero.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Sinta-se à vontade para explorar e aprimorar este projeto de acordo com seu aprendizado e criatividade.
