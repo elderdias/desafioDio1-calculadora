@@ -88,6 +88,10 @@ const App = () => {
           <Button label="3" onClick={() => handleAddNumber('3')} />
           <Button label="." onClick={handleAddDecimal} />
         </Row>
+        <Row>
+          <Button label="0" onClick={() => handleAddNumber('0')} />
+          <Button label="C" onClick={handleOnClear} />
+        </Row>
       </Content>
     </Container>
   );
